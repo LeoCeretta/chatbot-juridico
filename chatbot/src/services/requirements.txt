@@ -1,0 +1,9 @@
+boto3
+constructs>=10.0.0,<11.0.0
+langchain==0.3.8
+langchain-aws==0.2.7
+langchain-community==0.3.8
+python-dotenv==1.0.1
+python-telegram-bot==21.7
+chromadb
+pypdf

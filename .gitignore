@@ -1,0 +1,8 @@
+dataset/
+README.md
+.venv
+.env
+
+#Terraform State files
+.terraform*
+terraform.tf*
